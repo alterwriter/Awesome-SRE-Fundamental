@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/SRE-Fundamentals-black?style=for-the-badge&logo=googlecloud&logoColor=white" alt="SRE Fundamentals"/>
+</p>
+
+<h1 align="center">Awesome SRE Fundamentals</h1>
+<p align="center">The complete beginner-friendly guide to mastering Site Reliability Engineering</p>
+
 # Awesome SRE Fundamentals
 
 A curated list of resources to help beginners learn **Site Reliability Engineering (SRE)** from scratch.  
